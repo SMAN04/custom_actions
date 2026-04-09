@@ -1,0 +1,23 @@
+{
+  "name": "custom_actions",
+  "version": "1.0.0",
+  "description": "for custom actions cicd!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMAN04/custom_actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMAN04/custom_actions/issues"
+  },
+  "homepage": "https://github.com/SMAN04/custom_actions#readme",
+  "dependencies": {
+    "@actions/core": "^3.0.0"
+  }
+}
