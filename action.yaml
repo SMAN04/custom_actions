@@ -3,7 +3,7 @@ name: custom action
 description: greet someone
 
 inputs:
-  who to greet:
+  who-to-greet:
     description: Who to greet
     required: true
     default: Hello
